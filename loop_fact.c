@@ -1,3 +1,5 @@
+// find the factorial of given number 
+
 #include <stdio.h>
 #include<conio.h>
  
