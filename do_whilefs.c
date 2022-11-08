@@ -1,10 +1,10 @@
 #include<stdio.h>
-// #/\include<conio.h>
+#include<conio.h>
  
 void main()
 {
     int n,f,f1=-1,f2=1;
-    // clrscr();
+    clrscr();
      
     printf("  Enter The Number Of Terms:");
     scanf("%d",&n);
@@ -19,5 +19,5 @@ void main()
         printf("  \n %d",f);
         n--;
     }while(n>0);
-    // getch();
+    getch();
 }
