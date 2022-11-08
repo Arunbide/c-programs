@@ -1,3 +1,4 @@
+// print odd number from 1 to n using do while
 #include <stdio.h>
 #include<stdio.h>
 
